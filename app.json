@@ -1,0 +1,12 @@
+{
+  "name": "charger_v3",
+  "displayName": "charger_v3",
+  "expo": {
+    "name": "charger_v3",
+    "slug": "charger_v3",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
